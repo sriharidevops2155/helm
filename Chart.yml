@@ -1,0 +1,5 @@
+apiVersion: v2       # Mandetory instruction
+name: nginx       # Mandetory instruction
+version: 1.0.0 #Chart version          #Mandetory instruction
+description: nginx helm chart description
+appVersion:1.0.1 #application version
